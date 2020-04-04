@@ -1,3 +1,4 @@
 This is a simple text file
 This is the master branch.
 This is in the stupid branch
+This is another line
